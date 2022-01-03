@@ -10,4 +10,4 @@ Hello, my name is Muslim. I'm a begginer frontend developer
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-228B22?style=for-the-badge&logo=instagram&logoColor=FF7F50)](https://www.instagram.com/muslimitsuhide/)
 [![VK](https://img.shields.io/badge/-vkontakte-228B22?style=for-the-badge&logo=vk&logoColor=4169E1)](https://vk.com/muslimitsuhide)
-[![Telegram](https://img.shields.io/badge/-telegram-228B22?style=for-the-badge&logo=telegram&logoColor=4169E1)](https://telegram.com/muslimitsuhide)
+[![Telegram](https://img.shields.io/badge/-telegram-228B22?style=for-the-badge&logo=telegram&logoColor=4169E1)](https://t.me/muslimitsuhide)
