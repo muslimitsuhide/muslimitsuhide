@@ -1,8 +1,7 @@
 [![Header](https://github.com/muslimitsuhide/muslimitsuhide/blob/main/assets/ubnb.jpeg)](https://www.instagram.com/muslimitsuhide/)
 
 ### About me
-<p style='color:pink'>Hello, my name is Muslim. I'm a begginer frontend developer</p>
-
+Hello, my name is Muslim. I'm a begginer frontend developer
 ### Location 
 Russia, Moscow
 ### University
