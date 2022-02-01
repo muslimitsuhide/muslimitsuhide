@@ -13,6 +13,7 @@ Bauman Moscow State Technical University (BMSTU)
 ![C++](https://img.shields.io/badge/-C++-2F4F4F?style=for-the-badge&logo=C%2b%2b&logoColor=1E90FF)
 ![C](https://img.shields.io/badge/-C-2F4F4F?style=for-the-badge&logo=C&logoColor=4169E1)
 ![Python](https://img.shields.io/badge/-Python-2F4F4F?style=for-the-badge&logo=python&logoColor=orange)
+![Pascal](https://img.shields.io/badge/-Pascal-2F4F4F?style=for-the-badge&logo=pascal&logoColor=orange)
 ![HTML](https://img.shields.io/badge/-HTML-2F4F4F?style=for-the-badge&logo=HyperTextMarkupLanguage&logoColor=1E90FF)
 
 ### 👨🏻‍💻 Learning:
