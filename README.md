@@ -18,7 +18,7 @@ Bauman Moscow State Technical University (BMSTU)
 
 ### 👨🏻‍💻 Learning:
 ![CSS](https://img.shields.io/badge/-CSS-2F4F4F?style=for-the-badge&logo=CascadingStyleSheets&logoColor=1E90FF)
-![JS](https://img.shields.io/badge/-JS-2F4F4F?style=for-the-badge&logo=JavaScript&logoColor=)
+![JS](https://img.shields.io/badge/-JavaScript-2F4F4F?style=for-the-badge&logo=JavaScript&logoColor=)
 ### 📲 Contact
 [![Instagram](https://img.shields.io/badge/-Instagram-2F4F4F?style=for-the-badge&logo=instagram&logoColor=FF7F50)](https://www.instagram.com/muslimitsuhide/)
 [![VK](https://img.shields.io/badge/-vkontakte-2F4F4F?style=for-the-badge&logo=vk&logoColor=4169E1)](https://vk.com/muslimitsuhide)
