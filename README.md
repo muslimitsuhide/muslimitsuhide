@@ -2,6 +2,8 @@
 
 ### About me
 Hello, my name is Muslim. I'm a begginer frontend developer
+### Location 
+Russia, Moscow
 ### Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-7AC14B?style=for-the-badge&logo=C%2b%2b&logoColor=1E90FF)
 ![C](https://img.shields.io/badge/-C-7AC14B?style=for-the-badge&logo=C&logoColor=4169E1)
