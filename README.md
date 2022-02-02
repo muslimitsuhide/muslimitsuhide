@@ -23,11 +23,11 @@ Bauman Moscow State Technical University (BMSTU)
 ### 📲 Contact
 [![Instagram](https://img.shields.io/badge/-Instagram-2F4F4F?style=for-the-badge&logo=instagram&logoColor=FF7F50)](https://www.instagram.com/muslimitsuhide/)
 [![VK](https://img.shields.io/badge/-vkontakte-2F4F4F?style=for-the-badge&logo=vk&logoColor=4169E1)](https://vk.com/muslimitsuhide)
-[![Telegram](https://img.shields.io/badge/-telegram-2F4F4F?style=for-the-badge&logo=telegram&logoColor=4169E1)](https://t.me/muslimitsuhide)
+[![Telegram](https://img.shields.io/badge/-telegram-2AB2C6?style=for-the-badge&logo=telegram&logoColor=4169E1)](https://t.me/muslimitsuhide)
 [![Mail](https://img.shields.io/badge/-mail-2F4F4F?style=for-the-badge&logo=mail.ru&logoColor=FF7F50)](https://e.mail.ru/cgi-bin/sentmsg?To=mamad.muslim@mail.ru&from=otvet&afterReload=1)
 
 ### Discord Channel:
-[![Discord](https://img.shields.io/badge/-discord-126F8B?style=for-the-badge&logo=discord&logoColor=)](https://discord.gg/nKWkjdGN)
+[![Discord](https://img.shields.io/badge/-discord-2AB2C6?style=for-the-badge&logo=discord&logoColor=)](https://discord.gg/nKWkjdGN)
 
 [![Muslimitsuhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslimitsuhide&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/muslimitsuhide/)
 
