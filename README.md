@@ -10,15 +10,15 @@ Russia, Moscow
 Bauman Moscow State Technical University (BMSTU)
 
 ### 🛠 Languages and Tools:
-![C++](https://img.shields.io/badge/-C++-2F4F4F?style=for-the-badge&logo=C%2b%2b&logoColor=1E90FF)
-![C](https://img.shields.io/badge/-C-2F4F4F?style=for-the-badge&logo=C&logoColor=4169E1)
-![Python](https://img.shields.io/badge/-Python-2F4F4F?style=for-the-badge&logo=python&logoColor=orange)
-![Pascal](https://img.shields.io/badge/-Pascal-2F4F4F?style=for-the-badge&logo=pascal&logoColor=orange)
-![HTML](https://img.shields.io/badge/-HTML-2F4F4F?style=for-the-badge&logo=HyperTextMarkupLanguage&logoColor=1E90FF)
+![C++](https://img.shields.io/badge/-C++-165960?style=for-the-badge&logo=C%2b%2b&logoColor=1E90FF)
+![C](https://img.shields.io/badge/-C-165960?style=for-the-badge&logo=C&logoColor=4169E1)
+![Python](https://img.shields.io/badge/-Python-165960?style=for-the-badge&logo=python&logoColor=orange)
+![Pascal](https://img.shields.io/badge/-Pascal-165960?style=for-the-badge&logo=pascal&logoColor=orange)
+![HTML](https://img.shields.io/badge/-HTML-165960?style=for-the-badge&logo=HyperTextMarkupLanguage&logoColor=1E90FF)
 
 ### 👨🏻‍💻 Learning:
-![CSS](https://img.shields.io/badge/-CSS-2F4F4F?style=for-the-badge&logo=CascadingStyleSheets&logoColor=1E90FF)
-![JS](https://img.shields.io/badge/-JavaScript-2F4F4F?style=for-the-badge&logo=JavaScript&logoColor=)
+![CSS](https://img.shields.io/badge/-CSS-1B747E?style=for-the-badge&logo=CascadingStyleSheets&logoColor=1E90FF)
+![JS](https://img.shields.io/badge/-JavaScript-1B747E?style=for-the-badge&logo=JavaScript&logoColor=)
 
 ### 📲 Contact
 [![Instagram](https://img.shields.io/badge/-Instagram-21959B?style=for-the-badge&logo=instagram&logoColor=FF7F50)](https://www.instagram.com/muslimitsuhide/)
