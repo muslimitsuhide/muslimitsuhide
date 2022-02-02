@@ -25,5 +25,5 @@ Bauman Moscow State Technical University (BMSTU)
 [![Telegram](https://img.shields.io/badge/-telegram-2F4F4F?style=for-the-badge&logo=telegram&logoColor=4169E1)](https://t.me/muslimitsuhide)
 [![Mail](https://img.shields.io/badge/-mail-2F4F4F?style=for-the-badge&logo=mail.ru&logoColor=FF7F50)](https://e.mail.ru/cgi-bin/sentmsg?To=mamad.muslim@mail.ru&from=otvet&afterReload=1)
 
-[![Muslimitsuhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslimitsuhide&show_icons=true&theme=dracula&hide=issues,contribs)](https://github.com/muslimitsuhide/)
+[![Muslimitsuhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslimitsuhide&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/muslimitsuhide/)
 
