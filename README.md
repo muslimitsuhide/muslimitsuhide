@@ -29,5 +29,4 @@ Bauman Moscow State Technical University (BMSTU)
 ### Discord Channel:
 [![Discord](https://img.shields.io/badge/-discord-2AB2C6?style=for-the-badge&logo=discord&logoColor=)](https://discord.gg/nKWkjdGN)
 
-[![Muslimitsuhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslimitsuhide&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/muslimitsuhide/)
-
+[![Muslimitsuhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslimitsuhide&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/muslimitsuhide/)
