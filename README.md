@@ -33,5 +33,3 @@ Bauman Moscow State Technical University (BMSTU)
 [![Discord](https://img.shields.io/badge/-discord-2AB2C6?style=for-the-badge&logo=discord&logoColor=)](https://discord.gg/nKWkjdGN)
 
 [![Muslimitsuhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslimitsuhide&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/muslimitsuhide/)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muslimitsuhide&repo=keybond)](https://github.com/anuraghazra/github-readme-stats)
