@@ -11,6 +11,7 @@ Bauman Moscow State Technical University (BMSTU)
 
 ### ✅ Сompleted courses:
 ![VK education](https://img.shields.io/badge/-vk_education_preparatory_program_in_C/C++_programming-1E3647?style=for-the-badge&logo=vk&logoColor=1E90FF)
+![stepik](https://img.shields.io/badge/-stepik-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)
 
 ### 🛠 Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-165960?style=for-the-badge&logo=C%2b%2b&logoColor=1E90FF)
