@@ -11,7 +11,7 @@ Bauman Moscow State Technical University (BMSTU)
 
 ### ✅ Сompleted courses:
 ![VK education](https://img.shields.io/badge/-vk_education_preparatory_program_in_C/C++_programming-1E3647?style=for-the-badge&logo=vk&logoColor=1E90FF)
-[![stepik](https://img.shields.io/badge/-stepik_Web_Development_for_Beginners:_HTML_and_CSS-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)](https://stepik.org/cert/1386978)
+[![stepik](https://img.shields.io/badge/-stepik_Web_Development_for_Beginners:_HTML_and_CSS-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)](https://stepik.org/cert/1386978       )
 
 ### 🛠 Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-165960?style=for-the-badge&logo=C%2b%2b&logoColor=1E90FF)
@@ -31,6 +31,6 @@ Bauman Moscow State Technical University (BMSTU)
 [![Mail](https://img.shields.io/badge/-mail-21959B?style=for-the-badge&logo=mail.ru&logoColor=FF7F50)](https://e.mail.ru/cgi-bin/sentmsg?To=mamad.muslim@mail.ru&from=otvet&afterReload=1)
 
 ### 👥 Discord Channel:
-[![Discord](https://img.shields.io/badge/-discord-2AB2C6?style=for-the-badge&logo=discord&logoColor=)](https://discord.gg/qXzPbHEh)
+[![Discord](https://img.shields.io/badge/-discord-2AB2C6?style=for-the-badge&logo=discord&logoColor=)](https://discord.gg/fMngbxvD)
 
 [![Muslimitsuhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslimitsuhide&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/muslimitsuhide/)
