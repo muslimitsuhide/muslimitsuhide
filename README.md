@@ -10,7 +10,8 @@ Russia, Moscow
 Bauman Moscow State Technical University (BMSTU)
 
 ### ✅ Сompleted courses:
-![VK education](https://img.shields.io/badge/-vk_education_preparatory_program_in_C/C++_programming-1E3647?style=for-the-badge&logo=vk&logoColor=1E90FF)
+[![VKeducation](https://img.shields.io/badge/-vk_education_preparatory_program_in_C/C++_programming-1E3647?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://park.vk.company/curriculum/certificates/download/2935/9e43a466-469c-4bdb-b1a1-8eba0e65c83a/ )
+
 [![stepik](https://img.shields.io/badge/-stepik_Web_Development_for_Beginners:_HTML_and_CSS-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)](https://stepik.org/cert/1386978       )
 
 ### 🛠 Languages and Tools:
