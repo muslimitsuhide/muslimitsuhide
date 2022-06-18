@@ -1,8 +1,5 @@
 [![Header](https://github.com/muslimitsuhide/muslimitsuhide/blob/main/assets/ty.jpg)](https://www.instagram.com/muslimitsuhide/)
 
-### 👤 About me:
-Hello, my name is Muslim. I'm a begginer frontend developer
-
 ### 📍 Location:
 Russia, Moscow
 
