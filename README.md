@@ -1,9 +1,8 @@
 [![Header](https://github.com/muslimitsuhide/muslimitsuhide/blob/main/assets/ty.jpg)](https://www.instagram.com/muslimitsuhide/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muslimitsuhide&theme=dark)](https://git.io/streak-stats)
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&background=A316FF00&width=600&height=70&lines=Bauman+Moscow+State+Technical+University+(BMSTU))
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muslimitsuhide&theme=dark)](https://git.io/streak-stats)
 
 
 ### ✅ Сompleted courses:
