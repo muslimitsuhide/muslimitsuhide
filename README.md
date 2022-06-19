@@ -1,6 +1,10 @@
 [![Header](https://github.com/muslimitsuhide/muslimitsuhide/blob/main/assets/ty.jpg)](https://www.instagram.com/muslimitsuhide/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muslimitsuhide&theme=dark)](https://git.io/streak-stats)
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&background=A316FF00&width=600&height=70&lines=Bauman+Moscow+State+Technical+University+(BMSTU))
+
 
 ### ✅ Сompleted courses:
 [![VKeducation](https://img.shields.io/badge/-vk_education_preparatory_program_in_C/C++_programming-1E3647?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://park.vk.company/curriculum/certificates/download/2935/9e43a466-469c-4bdb-b1a1-8eba0e65c83a/ )
@@ -25,5 +29,3 @@
 [![Mail](https://img.shields.io/badge/-mail-21959B?style=for-the-badge&logo=mail.ru&logoColor=FF7F50)](https://e.mail.ru/cgi-bin/sentmsg?To=mamad.muslim@mail.ru&from=otvet&afterReload=1)
 
 [![Muslimitsuhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslimitsuhide&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/muslimitsuhide/)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muslimitsuhide&theme=dark)](https://git.io/streak-stats)
