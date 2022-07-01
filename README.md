@@ -1,8 +1,5 @@
 [![Header](https://github.com/muslimitsuhide/muslimitsuhide/blob/main/assets/ty.jpg)](https://www.instagram.com/muslimitsuhide/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muslimitsuhide&theme=dark)](https://git.io/streak-stats)
-
-
 ### ✅ Сompleted courses:
 [![VKeducation](https://img.shields.io/badge/-vk_education_preparatory_program_in_C/C++_programming-1E3647?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://park.vk.company/curriculum/certificates/download/2935/9e43a466-469c-4bdb-b1a1-8eba0e65c83a/ )
 
