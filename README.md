@@ -3,7 +3,7 @@
 ➜  ~ neofetch
 ```
 
-```md
+```css
 muslimitsuhide@github.com
 -----------------------------
 OS: macOS 12.1 21C52 x86_64
