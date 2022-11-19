@@ -1,30 +1,20 @@
-[![Header](https://github.com/muslimitsuhide/muslimitsuhide/blob/main/assets/ty.jpg)](https://www.instagram.com/muslimitsuhide/)
+```zsh
+➜  ~ neofetch
+```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&background=A316FF00&width=600&height=70&lines=Bauman+Moscow+State+Technical+University+(BMSTU))
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muslimitsuhide&theme=dark)](https://git.io/streak-stats)
-
-
-### ✅ Сompleted courses:
-[![VKeducation](https://img.shields.io/badge/-vk_education_preparatory_program_in_C/C++_programming-1E3647?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://park.vk.company/curriculum/certificates/download/2935/9e43a466-469c-4bdb-b1a1-8eba0e65c83a/ )
-
-[![stepik](https://img.shields.io/badge/-stepik_Web_Development_for_Beginners:_HTML_and_CSS-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)](https://stepik.org/cert/1386978       )
-
-### 🛠 Languages and Tools:
-![C++](https://img.shields.io/badge/-C++-165960?style=for-the-badge&logo=C%2b%2b&logoColor=1E90FF)
-![C](https://img.shields.io/badge/-C-165960?style=for-the-badge&logo=C&logoColor=4169E1)
-![Python](https://img.shields.io/badge/-Python-165960?style=for-the-badge&logo=python&logoColor=orange)
-![Pascal](https://img.shields.io/badge/-Pascal-165960?style=for-the-badge&logo=pascal&logoColor=orange)
-![HTML](https://img.shields.io/badge/-HTML-165960?style=for-the-badge&logo=https://github.com/muslimitsuhide/muslimitsuhide/blob/main/assets/html5.jpg&logoColor=1E90FF)
-
-### 👨🏻‍💻 Learning:
-![CSS](https://img.shields.io/badge/-CSS-1B747E?style=for-the-badge&logo=CascadingStyleSheets&logoColor=1E90FF)
-![JS](https://img.shields.io/badge/-JavaScript-1B747E?style=for-the-badge&logo=JavaScript&logoColor=)
-
-### 📲 Contact:
-[![Instagram](https://img.shields.io/badge/-Instagram-21959B?style=for-the-badge&logo=instagram&logoColor=FF7F50)](https://www.instagram.com/muslimitsuhide/)
-[![VK](https://img.shields.io/badge/-vkontakte-21959B?style=for-the-badge&logo=vk&logoColor=4169E1)](https://vk.com/muslimitsuhide)
-[![Telegram](https://img.shields.io/badge/-telegram-21959B?style=for-the-badge&logo=telegram&logoColor=4169E1)](https://t.me/muslimitsuhide)
-[![Mail](https://img.shields.io/badge/-mail-21959B?style=for-the-badge&logo=mail.ru&logoColor=FF7F50)](https://e.mail.ru/cgi-bin/sentmsg?To=mamad.muslim@mail.ru&from=otvet&afterReload=1)
-
-[![Muslimitsuhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslimitsuhide&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/muslimitsuhide/)
+```zsh
+muslimitsuhide@github.com
+-----------------------------
+OS: macOS 12.1 21C52 x86_64
+Kernel: 21.2.0
+Shell: zsh 5.8
+CPU: Intel i5-5350U (4) @ 1.80GHz
+GPU: Intel HD Graphics 6000
+Frameworks: React, JQuery
+Languages: C, C++, Python, JavaScript, HTML, CSS, Pascal
+-----------------------------
+University: BMSTU
+Course: 2
+Faculty: Computer Science, Artificial Intelligence and Control Systems
+All social networks: @muslimitsuhide
+```
