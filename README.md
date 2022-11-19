@@ -19,3 +19,6 @@ Course: 2
 Faculty: Computer Science, Artificial Intelligence and Control Systems
 All social networks: @muslimitsuhide
 ```
+<p align="">
+  <img alt="#353438" src="assets/353438.png" width="22" height="18"/><img alt="#d67071" src="assets/d67071.png" width="22" height="18"/><img alt="#29cc8a" src="assets/29cc8a.png" width="22" height="18"/><img alt="#c2ca90" src="assets/c2ca90.png" width="22" height="18"/><img alt="#b293cf" src="assets/b293cf.png" width="22" height="18"/><img alt="#d584b5" src="assets/d584b5.png" width="22" height="18"/><img alt="#84c2d0" src="assets/84c2d0.png" width="22" height="18"/><img alt="#acacb0" src="assets/acacb0.png" width="22" height="18"/>
+</p>
