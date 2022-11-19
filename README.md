@@ -4,7 +4,7 @@
 ```
 
 ```css
-muslimitsuhide@github.com
+muslimitsuhide@github
 -----------------------------
 OS: macOS 12.1 21C52 x86_64
 Kernel: 21.2.0
