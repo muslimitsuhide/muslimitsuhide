@@ -9,7 +9,7 @@ Kernel: 21.2.0
 Shell: zsh 5.8
 CPU: Intel i5-5350U (4) @ 1.80GHz
 GPU: Intel HD Graphics 6000
-Frameworks: React, JQuery
+Frameworks: JQuery, Django
 Languages: C, C++, Python, JavaScript, HTML, CSS, Pascal
 -----------------------------
 University: BMSTU
