@@ -1,5 +1,5 @@
 
-```bash
+```qt
 ➜  ~ neofetch
 
 muslimitsuhide@github
