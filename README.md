@@ -1,5 +1,5 @@
 
-```css
+```html
 ➜  ~ neofetch
 
 muslimitsuhide@github
