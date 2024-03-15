@@ -1,5 +1,5 @@
 
-```qt
+```css
 ➜  ~ neofetch
 
 muslimitsuhide@github
