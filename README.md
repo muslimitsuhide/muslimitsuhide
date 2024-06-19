@@ -4,12 +4,12 @@
 
 muslimitsuhide@github
 -----------------------------
-OS: macOS 12.1 21C52 x86_64
-Kernel: 21.2.0
-Shell: zsh 5.8
-CPU: Intel i5-5350U (4) @ 1.80GHz
-GPU: Intel HD Graphics 6000
-Frameworks: Qt, JQuery, Django
+OS: macOS 14.4.1 23E224 arm64
+Kernel: 23.4.0
+Shell: zsh 5.9
+CPU: Apple M2
+GPU: Apple M2
+Frameworks: Qt, JQuery, Django, Selenium, React, Express
 Languages: C, C++, Python, JavaScript, HTML, CSS, Pascal
 -----------------------------
 University: BMSTU
