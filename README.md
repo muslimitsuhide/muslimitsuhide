@@ -1,5 +1,5 @@
 
-```bash
+```zsh
 ➜  ~ neofetch
 
 muslimitsuhide@github
