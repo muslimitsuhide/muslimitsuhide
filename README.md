@@ -10,7 +10,7 @@ Shell: zsh 5.9
 CPU: Apple M2
 GPU: Apple M2
 Frameworks: Qt, JQuery, Django, Selenium, React, Express
-Languages: C, C++, Python, JavaScript, HTML, CSS, Pascal
+Languages: C, C++, Python, JavaScript, TypeScript, HTML, CSS, Pascal
 -----------------------------
 University: BMSTU
 Course: N
